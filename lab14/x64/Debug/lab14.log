@@ -1,0 +1,5 @@
+﻿  lab14.cpp
+C:\Users\Мишаня\source\repos\САОД\lab14\lab14.cpp(338,67): warning C4101: prim_for_index_temp: неиспользованная локальная переменная
+C:\Users\Мишаня\source\repos\САОД\lab14\lab14.cpp(338,44): warning C4101: for_find_index_temp: неиспользованная локальная переменная
+C:\Users\Мишаня\source\repos\САОД\lab14\lab14.cpp(422,103): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  lab14.vcxproj -> C:\Users\Мишаня\source\repos\САОД\x64\Debug\lab14.exe

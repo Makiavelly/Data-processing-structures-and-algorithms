@@ -1,0 +1,4 @@
+﻿  lab12.cpp
+C:\Users\Мишаня\source\repos\САОД\lab12\lab12.cpp(270,11): warning C4101: temp: неиспользованная локальная переменная
+C:\Users\Мишаня\source\repos\САОД\lab12\lab12.cpp(306,17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab12.vcxproj -> C:\Users\Мишаня\source\repos\САОД\x64\Debug\lab12.exe

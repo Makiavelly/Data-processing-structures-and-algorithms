@@ -1,0 +1,4 @@
+﻿  lab11.cpp
+C:\Users\Мишаня\source\repos\САОД\lab11\lab11.cpp(264,17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Мишаня\source\repos\САОД\lab11\lab11.cpp(195): warning C4715: delete_cell: значение возвращается не при всех путях выполнения
+  lab11.vcxproj -> C:\Users\Мишаня\source\repos\САОД\x64\Debug\lab11.exe
