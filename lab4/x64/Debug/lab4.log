@@ -1,0 +1,8 @@
+﻿  lab4.cpp
+C:\Users\Мишаня\source\repos\САОД\lab4\lab4.cpp(134,5): warning C4984: "if constexpr" — расширение языка C++17
+C:\Users\Мишаня\source\repos\САОД\lab4\lab4.cpp(142,10): warning C4984: "if constexpr" — расширение языка C++17
+C:\Users\Мишаня\source\repos\САОД\lab4\lab4.cpp(179,5): warning C4984: "if constexpr" — расширение языка C++17
+C:\Users\Мишаня\source\repos\САОД\lab4\lab4.cpp(195,2): warning C4984: "if constexpr" — расширение языка C++17
+C:\Users\Мишаня\source\repos\САОД\lab4\lab4.cpp(196,7): warning C4984: "if constexpr" — расширение языка C++17
+C:\Users\Мишаня\source\repos\САОД\lab4\lab4.cpp(116): warning C4715: search_elem<int>: значение возвращается не при всех путях выполнения
+  lab4.vcxproj -> C:\Users\Мишаня\source\repos\САОД\x64\Debug\lab4.exe
